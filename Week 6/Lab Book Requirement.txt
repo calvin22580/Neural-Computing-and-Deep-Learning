@@ -1,0 +1,13 @@
+Lab Logbook requirement:
+
+1. Plot of the 2nd model's summary
+
+2. Copy your early-stop code and history_2 fit-training-process
+
+3. Please record the plot of validation and test loss of history_2.
+
+4. Based on this analysis, determine the optimal number of epochs for training your model. 
+
+Ensure that only the required information is present.  Marks will not be awarded if anything else is found in the logbook or instructions are not clearly followed.
+
+NOTE: DON'T FORGET TO SAVE AND BACK UP YOUR COMPLETED JUPYTER NOTEBOOK AND LAB LOGBOOK ON GITHUB OR ONEDRIVE.

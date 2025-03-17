@@ -1,0 +1,10 @@
+Lab Logbook requirement:
+
+1. Plot graphs for Accuracy and Loss Function for VGG16 and VGG19 (4 graphs in total).
+2. Based on this analysis, determine the optimal number of epochs for training your VGG16 model.
+
+3. Add the final Performance Table
+
+4. Plot the performance comparing histogram of VGG16 and VGG19
+
+NOTE: DON'T FORGET TO SAVE AND BACK UP YOUR COMPLETED JUPYTER NOTEBOOK AND LAB LOGBOOK ON GITHUB OR ONEDRIVE.

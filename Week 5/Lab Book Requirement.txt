@@ -1,0 +1,5 @@
+Lab Logbook requirement:
+
+1. Plot of the model's summaryLinks to an external site.
+2. Please ensure to document in your laboratory logbook a graphical representation depicting the train loss and validation loss trends.Links to an external site.
+3. Based on this analysis, determine the optimal number of epochs for training your model.
